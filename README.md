@@ -109,8 +109,8 @@ This is one of several production-grade data engineering projects built end-to-e
 
 | Project | Description |
 |---|---|
-| [retail-etl](https://github.com/samueladesina/retail-etl) | Retail — full ETL pipeline (PostgreSQL / Supabase) |
-| [banking-etl](https://github.com/samueladesina/banking-etl) | Banking — transactions, fraud alerts, loan risk (PostgreSQL) |
+| [retail-etl](https://github.com/samuadesina/retail-eda) | Retail — full ETL pipeline (PostgreSQL / Supabase) |
+| [banking-etl](https://github.com/samuadesina/banking-etl-pipeline) | Banking — transactions, fraud alerts, loan risk (PostgreSQL) |
 | **insurance-etl** | **Insurance — claims, policies, risk assessments (PostgreSQL)** |
 
 ---
@@ -121,4 +121,4 @@ This is one of several production-grade data engineering projects built end-to-e
 
 ---
 
-*Built by [Sam Adesina](https://github.com/samueladesina) — MSc Data Science | Open to data engineering and analyst roles.*
+*Built by [Sam Adesina](https://www.linkedin.com/in/samuadesina/) — MSc Data Science | Open to data engineering and analyst roles.*
